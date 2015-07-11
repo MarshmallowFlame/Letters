@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Soundtrack of Whitechapel</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="preparing">Preparing </string>
+    <string name="hunt">Hunting </string>
+    <string name="homecoming">Homecoming </string>
+    <string name="pause">Pause </string>
+    <string name="logout">Logout </string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_preparing">Preparing</string>
+</resources>

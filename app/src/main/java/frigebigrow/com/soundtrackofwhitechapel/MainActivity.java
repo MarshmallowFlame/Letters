@@ -34,6 +34,7 @@ public class MainActivity extends Activity implements
     // Can be any integer
     private static final int REQUEST_CODE = 1337;
     private Player mPlayer;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

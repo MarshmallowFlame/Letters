@@ -97,7 +97,9 @@ public class Preparing extends Activity implements
                 break;
             case R.id.pause:
                 mPlayer.pause();
+                System.out.println("Fisk");
                 break;
+                
 
         }
     }
